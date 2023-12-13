@@ -14,5 +14,6 @@ Bitty. Анализ дат в графиках MS Project - это беспла�
 
 Успехов!
 
+![](https://github.com/Pletennyy/Bitty.Analiz_kachestva_grafikov_MS_Project/blob/main/Excel13.png)
 
 [Bitty. Анализ качества графиков MS Project](https://github.com/Pletennyy/Bitty.Analiz_kachestva_grafikov_MS_Project)
